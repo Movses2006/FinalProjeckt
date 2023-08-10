@@ -1,0 +1,9 @@
+.Table{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 30px;
+}
+input{
+    margin-bottom: 20px;
+}
